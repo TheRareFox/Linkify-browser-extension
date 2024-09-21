@@ -1,0 +1,16 @@
+job-application-ai-assistant/
+├── manifest.json
+├── popup/
+│   ├── popup.html
+│   ├── popup.css
+│   └── popup.js
+├── scripts/
+│   ├── content.js
+│   └── background.js
+├── lib/
+│   └── ai-service.js
+├── icons/
+│   ├── icon16.png
+│   ├── icon48.png
+│   └── icon128.png
+└── README.md
